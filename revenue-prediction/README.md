@@ -1,4 +1,4 @@
-Linear-regression
+Sales revenue prediction using Linear-regression
 
 This is a guided project in using scikit-learn linear regression to predict sales revenues. This simply includes 2 files:
 
